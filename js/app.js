@@ -1,6 +1,6 @@
 
 if(navigator.serviceWorker){
-    navigator.serviceWorker.register('Twittor/sw.js')
+    navigator.serviceWorker.register('sw.js')
 }
 
 
