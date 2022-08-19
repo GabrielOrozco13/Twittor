@@ -10,17 +10,17 @@ const INMUTABLE_CACHE = "inmutable-v1";
 
 
 const APP_SHELL = [
-    // '/',
-    '/Twittor/index.html',
-    '/Twittor/css/style.css',
-    '/Twittor/img/favicon.ico',
-    '/Twittor/img/avatars/wolverine.jpg',
-    '/Twittor/img/avatars/hulk.jpg',
-    '/Twittor/img/avatars/ironman.jpg',
-    '/Twittorimg/avatars/spiderman.jpg',
-    '/Twittor/img/avatars/thor.jpg',
-    '/Twittor/js/app.js',
-    '/Twittor/js/sw-utils.js'
+    //'/',
+    'index.html',
+    'css/style.css',
+    'img/favicon.ico',
+    'img/avatars/wolverine.jpg',
+    'img/avatars/hulk.jpg',
+    'img/avatars/ironman.jpg',
+    'img/avatars/spiderman.jpg',
+    'img/avatars/thor.jpg',
+    'js/app.js',
+    'js/sw-utils.js'
 ];
 
 
