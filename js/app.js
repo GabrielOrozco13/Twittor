@@ -1,10 +1,10 @@
 var url = window.location.href;
-var swLocation = '/Twittor/sw.js';
+
 
 
 if ( navigator.serviceWorker ) {
 
-    navigator.serviceWorker.register( swLocation );
+    navigator.serviceWorker.register('/Twittor/sw.js');
 }
 
 
