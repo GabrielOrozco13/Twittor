@@ -10,7 +10,7 @@ const INMUTABLE_CACHE = "inmutable-v1";
 
 
 const APP_SHELL = [
-    '/',
+    // '/',
     '/Twittor/index.html',
     '/Twittor/css/style.css',
     '/Twittor/img/favicon.ico',
