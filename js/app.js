@@ -1,10 +1,6 @@
-var url = window.location.href;
 
-
-
-if ( navigator.serviceWorker ) {
-
-    navigator.serviceWorker.register('/Twittor/sw.js');
+if(navigator.serviceWorker){
+    navigator.serviceWorker.register('Twittor/sw.js')
 }
 
 
